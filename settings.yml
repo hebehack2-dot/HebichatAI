@@ -1,0 +1,13 @@
+use_default_settings: true
+
+general:
+  instance_name: "HebiChat Search"
+
+search:
+  formats:
+    - html
+    - json
+
+server:
+  secret_key: "hebi8x9k2m4p7q1w5e3r6t8y0u2i4o6a"
+  limiter: false
