@@ -20,5 +20,5 @@ engines:
     disabled: false
 
 server:
-  secret_key: "hebi8x9k2m4p7q1w5e3r6t8y0u2i4o6a"
+  secret_key: "hebi8x9g2n4j7q1w5f3r6t8y0u3i5o6a"
   limiter: false
